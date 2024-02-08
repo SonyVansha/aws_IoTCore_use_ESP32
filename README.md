@@ -23,6 +23,6 @@ Source Learn :
 
 <!-- Link Parameter -->
 [IoT Virtual]: <https://wokwi.com/projects/389120237216502785>
-[Arduino]: <https://github.com/SonyVansha/aws_IoTCore_use_ESP32/Arduino>
+[Arduino]: <https://github.com/SonyVansha/aws_IoTCore_use_ESP32/tree/main/Arduino>
 [website]: <https://how2electronics.com/connecting-esp32-to-amazon-aws-iot-core-using-mqtt>
 [youtube]: <https://youtu.be/idf-gGXvIu4?si=G2bXH7F3H_CarBA2>
